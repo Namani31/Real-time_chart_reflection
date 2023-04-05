@@ -1,0 +1,19 @@
+input {
+    width: 10%;
+    font-size:15px;
+    border-radius: 15px;
+    padding-left: 10px;
+  }
+
+h2 {
+    padding: 24px;
+    margin: 0;
+    font-size: 24px;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.chart_div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
